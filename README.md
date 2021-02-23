@@ -1,2 +1,2 @@
 # DataScienceProjects
-This repository is data science projects
+This repository is for data science projects
